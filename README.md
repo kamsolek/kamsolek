@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamsolek
 - 👀 I’m interested in computer science, physics, mathematics.
-- 🌱 I’m currently studying IT.
+- 🌱 I’m currently studying IT. I'm just learning Git and object-oriented C++.
 - 📫 email: kamil.ochenduszko@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sometimes I write funny birthday poems for friends.
