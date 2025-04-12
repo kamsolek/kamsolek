@@ -4,6 +4,7 @@
 - 📫 email: kamil.ochenduszko@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sometimes I write funny birthday poems for friends.
+- 🎥 Check out my urbex YouTube channel www.youtube.com/@UrbexgroupTv
 
 <!---
 kamsolek/kamsolek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
